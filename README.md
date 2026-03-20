@@ -1,4 +1,7 @@
-<h1>MANGO LEAF DISEASE DETECTION</h1>
+<div align="center">
+  <img width="500" alt="Mango Leaf Disease Detection Logo" src="https://github.com/user-attachments/assets/673c2582-d4ba-45af-b71a-e1db4ffcb77e">
+</div>
+<h2>Description</h2>
 <p>This project uses <i><b>ResNet50</b></i> with <i><b>transfer learning</b></i>to classify 8 types of mango leaf diseases from images, including <i><b>Anthracnose, Bacterial Canker, Cutting Weevil, Die Back, Gall Midge, Healthy, Powdery Mildew, and Sooty Mould</b></i>. The dataset was carefully cleaned, resized, and balanced before training, and the model was fine-tuned to achieve high accuracy. Performance was evaluated using <i><b>accuracy, loss , confusion matrix, and classification report</b></i>, while <i><b>LIME</b></i> was used for explainability to highlight the regions of leaf images that influenced the model’s predictions, making it both accurate and interpretable for real-world agricultural applications.</p>
 <h2>Data Sample</h2>
 <img width="4770" height="963" alt="one_image_per_class" src="https://github.com/user-attachments/assets/bd145148-d3d8-4af4-a381-2d5b7e3e0197" />
