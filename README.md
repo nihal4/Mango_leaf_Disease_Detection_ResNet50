@@ -175,7 +175,7 @@
 <strong>Trainable params:</strong> 5,193,224 (19.81 MB)<br>
 <strong>Non-trainable params:</strong> 22,607,232 (86.24 MB)</p>
 <p>
-  <a href="https://drive.google.com/file/d/1b0DBPEeRs2qR2TIxXXXM1Df1Mg6epT-o/view?usp=sharing" target="_blank">
+  <a href="https://github.com/nihal4/Mango_leaf_Disease_Detection_ResNet50/releases/tag/v1" target="_blank">
     Download Model
   </a>
 </p>
